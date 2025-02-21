@@ -2,8 +2,6 @@
 
 _"Erhebt euch, ihr verlorenen Seelen, denn die Wahrheit des Wissens wurde gepusht!"_  
 
-![Messias](/Git%20Repository/CruciFix/image/titelbild.png "Beschreibung")
-
 **CruziFix** ist das heilige Repository der Erleuchtung – ein Ort, an dem Studenten die heiligen Schriften der Informatik empfangen können.  
 Hier sammeln, pflegen und verteilen wir Wissen in Form von Skripten, Übungsaufgaben, Zusammenfassungen und anderem lehrreichen Material.  
 
